@@ -104,7 +104,7 @@ Ou aksepte endemnize epi kenbe RARI, Roodolph01 ak afilye nou yo a leka nan nenp
 
 ## 14. Lwa aplikab
 
-Kondisyon sa yo gouvène pa lwa **Ayiti**, san konsidere prensip konfli lwa. Nenpòt diferan ap rezoud nan tribinal Pòtoprens, Ayiti.
+Kondisyon sa yo gouvène pa lwa **Kanada**, san konsidere prensip konfli lwa. Nenpòt diferan ap rezoud nan tribinal konpetan Kanada.
 
 ## 15. Divizibilite
 
@@ -113,7 +113,7 @@ Si yon dispozisyon nan Kondisyon yo jije inaplikab, lòt dispozisyon yo rete nan
 ## 16. Kontak
 
 Pou kesyon konsènan Kondisyon sa yo :
-- **Email :** rari.app.haiti@gmail.com
+- **Email :** zabokatech@gmail.com
 - **Devlopè :** Roodolph01
 
 Lè w sèvi ak RARI, ou rekonèt ou li, konprann epi aksepte Kondisyon Itilizasyon sa yo.

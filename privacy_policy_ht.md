@@ -64,7 +64,7 @@ Selon kote w ye, ou gen dwa sa yo :
 - **Opozisyon :** opoze sèten tretman (ex. piblisite)
 - **Retire :** retire konsantman ou
 
-Pou egzèse dwa sa yo, kontakte **rari.app.haiti@gmail.com**.
+Pou egzèse dwa sa yo, kontakte **zabokatech@gmail.com**.
 
 ## 6. Konfidansyalite timoun
 
@@ -107,8 +107,8 @@ Nou ka mete ajou politik sa a. Chanjman enpòtan yo ap kominike via :
 
 ## 12. Kontak
 
-- **Email :** rari.app.haiti@gmail.com
+- **Email :** zabokatech@gmail.com
 - **Devlopè :** Roodolph01
-- **Peyi :** Ayiti
+- **Peyi :** Kanada
 
 Lè w sèvi ak RARI, ou rekonèt ou li ak ou konprann Politik Konfidansyalite sa a.

@@ -67,7 +67,7 @@ Depending on your location, you have the following rights:
 - **Objection:** object to certain processing (e.g., advertising)
 - **Withdrawal:** withdraw consent where processing is based on consent
 
-To exercise these rights, contact us at **rari.app.haiti@gmail.com**.
+To exercise these rights, contact us at **zabokatech@gmail.com**.
 
 ## 6. Children's Privacy
 
@@ -113,8 +113,8 @@ The "Last updated" date at the top will reflect the most recent revision.
 ## 12. Contact
 
 For questions or concerns:
-- **Email:** rari.app.haiti@gmail.com
+- **Email:** zabokatech@gmail.com
 - **Developer:** Roodolph01
-- **Country of operation:** Haiti
+- **Country of operation:** Canada
 
 By using RARI, you acknowledge that you have read and understood this Privacy Policy.

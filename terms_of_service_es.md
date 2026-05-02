@@ -104,7 +104,7 @@ Aceptas indemnizar y mantener a RARI, Roodolph01 y nuestros afiliados libres de 
 
 ## 14. Ley aplicable
 
-Estos Términos se rigen por las leyes de **Haití**, sin tener en cuenta los principios de conflicto de leyes. Cualquier disputa se resolverá en los tribunales de Puerto Príncipe, Haití.
+Estos Términos se rigen por las leyes de **Canadá**, sin tener en cuenta los principios de conflicto de leyes. Cualquier disputa se resolverá en los tribunales competentes de Canadá.
 
 ## 15. Divisibilidad
 
@@ -113,7 +113,7 @@ Si alguna disposición de estos Términos se considera inaplicable, las demás d
 ## 16. Contacto
 
 Para preguntas sobre estos Términos:
-- **Correo:** rari.app.haiti@gmail.com
+- **Correo:** zabokatech@gmail.com
 - **Desarrollador:** Roodolph01
 
 Al usar RARI, reconoces haber leído, entendido y aceptado estos Términos de Servicio.

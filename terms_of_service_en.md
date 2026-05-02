@@ -104,7 +104,7 @@ You agree to indemnify and hold harmless RARI, Roodolph01, and our affiliates fr
 
 ## 14. Governing Law
 
-These Terms are governed by the laws of **Haiti**, without regard to conflict of law principles. Any disputes shall be resolved in the courts of Port-au-Prince, Haiti.
+These Terms are governed by the laws of **Canada**, without regard to conflict of law principles. Any disputes shall be resolved in the competent courts of Canada.
 
 ## 15. Severability
 
@@ -113,7 +113,7 @@ If any provision of these Terms is found unenforceable, the remaining provisions
 ## 16. Contact
 
 For questions about these Terms:
-- **Email:** rari.app.haiti@gmail.com
+- **Email:** zabokatech@gmail.com
 - **Developer:** Roodolph01
 
 By using RARI, you acknowledge that you have read, understood, and agree to be bound by these Terms of Service.

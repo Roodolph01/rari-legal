@@ -104,7 +104,7 @@ Vous acceptez d'indemniser et de tenir RARI, Roodolph01 et nos affiliés à l'é
 
 ## 14. Droit applicable
 
-Ces Conditions sont régies par les lois de **Haïti**, sans tenir compte des principes de conflit de lois. Tout litige sera résolu devant les tribunaux de Port-au-Prince, Haïti.
+Ces Conditions sont régies par les lois du **Canada**, sans tenir compte des principes de conflit de lois. Tout litige sera résolu devant les tribunaux compétents du Canada.
 
 ## 15. Divisibilité
 
@@ -113,7 +113,7 @@ Si une disposition de ces Conditions est jugée inapplicable, les autres disposi
 ## 16. Contact
 
 Pour toute question concernant ces Conditions :
-- **Email :** rari.app.haiti@gmail.com
+- **Email :** zabokatech@gmail.com
 - **Développeur :** Roodolph01
 
 En utilisant RARI, vous reconnaissez avoir lu, compris et accepté ces Conditions d'Utilisation.

@@ -64,7 +64,7 @@ Selon votre localisation, vous avez les droits suivants :
 - **Opposition :** vous opposer à certains traitements (ex. publicité)
 - **Retrait :** retirer votre consentement
 
-Pour exercer ces droits, contactez **rari.app.haiti@gmail.com**.
+Pour exercer ces droits, contactez **zabokatech@gmail.com**.
 
 ## 6. Confidentialité des enfants
 
@@ -107,8 +107,8 @@ Nous pouvons mettre à jour cette politique. Les changements importants seront c
 
 ## 12. Contact
 
-- **Email :** rari.app.haiti@gmail.com
+- **Email :** zabokatech@gmail.com
 - **Développeur :** Roodolph01
-- **Pays d'opération :** Haïti
+- **Pays d'opération :** Canada
 
 En utilisant RARI, vous reconnaissez avoir lu et compris cette Politique de Confidentialité.

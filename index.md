@@ -22,6 +22,6 @@ title: RARI — Documents légaux
 
 ## Contact
 
-- **Email :** rari.app.haiti@gmail.com
+- **Email :** zabokatech@gmail.com
 - **Développeur :** Roodolph01
-- **Pays :** Haïti
+- **Pays :** Canada
